@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/a/2oG4d' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -41,11 +41,11 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 **Question 1:** "What are your reactions to the Android app development platform so far? Compare and contrast Android's approach to layouts and user interfaces in past platforms you've used."
 
-**Answer:** [Enter your answer here in a paragraph or two].
+**Answer:** First of all, I like how structured and detail documented android library is.  Compare to web development where concerns are easily mixed together, android library clearly separates view concerns vs data model concerns vs business logic.  This is pretty nice.
 
 **Question 2:** "Take a moment to reflect on the `ArrayAdapter` used in your pre-work. How would you describe an adapter in this context and what is its function in Android? Why do you think the adapter is important? Explain the purpose of the `convertView` in the `getView` method of the `ArrayAdapter`."
 
-**Answer:** [Enter your answer here in a paragraph or two].
+**Answer:** An adapter is a bridge between data and view.  It provides access to data items in that view. ArrayAdapter is important because it creates a view for each data object in the array and allow access to each item.  convertView is a view that can be reused from the first time app calls getView method.
 
 ## Notes
 
