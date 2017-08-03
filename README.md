@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/2oG4d' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://cvws.icloud-content.com/B/AYEXFGREru0PrdhXFkxKiC9hb6XtAfErH1mhYyuOP9N_4iGXXXwVA4sN/SimpleTodo_v1.gif?o=Ai69q8afntTwL57duU9pqe5BGHyN-9dBxVnmdxXKCMvu&v=1&x=3&a=BZuIrRoATAn9A-_nPA&e=1501796079&k=PKJNJVgofFdDBDikrsZ15g&fl=&r=37552f5e-df15-46df-aba9-336a5566ff8f-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=24&s=vRQTKS_EjppZYbvpXk4AnvHw5do&cd=i' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
